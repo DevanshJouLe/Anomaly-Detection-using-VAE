@@ -1,6 +1,6 @@
 # Anomaly Detection using VAE and Re-Encoder LSTM
 
-### Deep Learning Course Project — Prof. Sumohana Channappayya (IIT Hyderabad)  
+### Deep Learning Course Project: Prof. Sumohana Channappayya (IIT Hyderabad)  
 **Timeline:** September 2025  
 
 ---
